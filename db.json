@@ -1,19 +1,19 @@
 {
-  "user"{
+  {
   "id": 1,
   "firstName": "Anthony",
   "lastName": "Sistilli"
 },
-"user"
+
  {
    "id": 2,
    "firstName": "Alex",
    "lastName": "Pinto"
   },
-"user"
+
  {
    "id": 3,
     "firstName": "Anthony",
    "lastName": "pinto"
   }
-
+}
